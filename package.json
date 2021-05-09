@@ -1,0 +1,30 @@
+{
+	"name": "basic_user_syatem",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/saket98/basic_user_syatem.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/saket98/basic_user_syatem/issues"
+	},
+	"homepage": "https://github.com/saket98/basic_user_syatem#readme",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"mongoose": "^5.12.6",
+		"package-json": "^6.5.0"
+	},
+	"devDependencies": {
+		"dotenv": "^8.2.0",
+		"nodemon": "^2.0.7"
+	}
+}
